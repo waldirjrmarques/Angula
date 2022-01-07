@@ -1,0 +1,11 @@
+Preparando o Ambiente
+
+1° - Instalar o node.js
+2° - Instalar o Angula ClI
+     cmd windows
+	* Comando: npm install -g @angular/cli 
+	* Para certificar que a instalação foi concluída com 	sucesso, verifique com o seguinte comando: ng — 	        version
+3° - instalçao do typescript
+     cmd windows
+	* Comando: npm install -g typescript
+	
