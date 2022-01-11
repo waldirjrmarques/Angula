@@ -8,4 +8,15 @@ Preparando o Ambiente
 3° - instalçao do typescript
      cmd windows
 	* Comando: npm install -g typescript
-	
+
+4° - Criar um novo projeto 
+     cmd windows
+	* prompt : cd + C:\Users\M\Desktop\HD BACKUP JR          \Documentos\Curso-Front-End\Angula 
+	* prompt : ng new + nomedapasta
+
+5° - vá para o diretorio  C:\Users\M\Desktop\HD BACKUP JR\Documentos\Curso-Front-End\Angula>cd + nomedoprojeto
+	ex: C:\Users\M\Desktop\HD BACKUP JR\Documentos                   \Curso-Front-End\Angula>cd primeiro-projeto
+
+           C:\Users\M\Desktop\HD BACKUP JR\Documentos           \Curso-Front-End\Angula\primeiro-projeto>ng serve
+       
+		 
